@@ -1,5 +1,6 @@
 import type { NextConfig } from "next";
 
+
 const nextConfig: NextConfig = {
   // output: "export",   // bắt buộc để export ra static HTML
   // images: {
